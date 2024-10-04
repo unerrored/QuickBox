@@ -17,4 +17,4 @@ All in one toolbox for optimzation &amp; setting up your new PC.
 
 ##
 
-*This project is under the MIT License, to know what you can and cannot do, Please read the [LICENSE](https://github.com/unerrored/QuickBox/main/LICENSE) file.*
+*This project is under the MIT License, to know what you can and cannot do, Please read the [LICENSE](https://github.com/unerrored/QuickBox/blob/main/LICENSE) file.*
